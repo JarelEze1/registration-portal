@@ -1,6 +1,6 @@
 // Countdown Timer
 const countdown = () => {
-  const targetDate = new Date("July 23, 2025 18:00:00").getTime();
+  const targetDate = new Date("July 26, 2025 20:30:00").getTime();
   const now = new Date().getTime();
   const difference = targetDate - now;
 
